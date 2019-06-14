@@ -5,7 +5,7 @@
 
 
 
-let say_hello = (name) => 'hey,' +name+ '  welcome to modern JS'
+let say_hello = (name) => 'hey there,' +name+ '  welcome to modern JS'
 
 // console.log(say_hello('johnny'))
 
